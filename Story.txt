@@ -36,9 +36,3 @@ Now time for testers to test!!!!
 Testing jenkins,.........pipeline test
 
 
-
-testing..... update
-test
-app test...update...........
-testing......
-test..  
